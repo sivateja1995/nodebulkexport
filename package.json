@@ -15,7 +15,7 @@
     "dotenv": "^8.2.0",
     "env-cmd": "^8.0.2",
     "eval": "^0.1.4",
-    "express": "~4.16.1",
+    "express": "~4.17.3",
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
     "mongoose": "^5.9.16",
